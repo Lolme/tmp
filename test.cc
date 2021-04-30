@@ -2,3 +2,7 @@
 void main()
 {
 }
+
+void other()
+{
+}
